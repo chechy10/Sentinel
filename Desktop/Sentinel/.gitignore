@@ -3,4 +3,9 @@
 build/
 dist/
 .vscode/
+# Excluir configuraciones de usuario y archivos del sistema
+ntuser.*
+*.LOG*
+*.ini
+/netsh/
 
